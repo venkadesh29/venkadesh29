@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity | Flutter**
 
-- 📫 How to reach me **venkadeshachu@gmail.com**
+- 📫 How to reach me **venkadeshsachu@gmail.com**
 
 - ⚡ Fun fact **I once made a bunny carrot collecting game in Unity 2D just for fun!**
 
