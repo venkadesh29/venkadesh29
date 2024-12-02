@@ -3,7 +3,7 @@
 <h3 align="center">Unity Enthusiast and Flutter Novice | Growing in Game and Mobile Development</h3>
 <img align= "right" alt = "Gaming" width = "400" src = "https://i.pinimg.com/originals/b7/1f/46/b71f46c816c737701a222f39b79c7e84.gif"><br><br>
 
-- 🌱 I’m currently learning **Unity | Flutter**
+- 🌱 I’m a **Unity Developer
 
 - 📫 How to reach me **venkadeshsachu@gmail.com**
 
